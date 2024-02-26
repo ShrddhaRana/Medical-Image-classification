@@ -9,4 +9,4 @@ Create an environment, pip requirements and run server.
 4. cd pixelvision
 5. python3 manage.py runserver
 
-![Website](image.png)
+![Website look](image.png)
